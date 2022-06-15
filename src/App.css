@@ -1,0 +1,15 @@
+.index{
+  height: 90vh;
+  background-color: chartreuse;
+}
+.about{
+  height: 90vh;
+  background-color: coral;
+}
+.item-head{
+  text-align: center;
+  margin: auto;
+}
+.card{
+  width: 18rem;
+}
